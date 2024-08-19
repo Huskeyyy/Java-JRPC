@@ -6,7 +6,7 @@ Java-JRPC is a very simple Java based JRPC library which provides a way to inter
 
 **Clone the Repository**:
    ```bash
-   git clone https://github.com/huskeyyy/java-rpc.git
+   git clone https://github.com/huskeyyy/java-jrpc.git
 ```
 
 ## Usage
