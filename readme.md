@@ -14,7 +14,7 @@ Java-JRPC is a very simple Java based JRPC library which provides a way to inter
 **Creating an Instance**
    ```java
 // Create an instance with a specific IP and port
-XboxConsole xbox = new XboxConsole("192.168.1.2", 730);
+XboxConsole xbox = new XboxConsole("192.168.1.2", 21);
 
 // Or with default port 730
 XboxConsole xbox = new XboxConsole("192.168.1.2");
